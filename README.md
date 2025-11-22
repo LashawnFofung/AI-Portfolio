@@ -39,7 +39,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 Artifacts demonstrating system design and product management skills.
 
-[Digital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
+<b>[Digital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)</b>
 	
 - Translating Gen Z behavioral insights into retention-focused product features. Covers the full lifecycle from hypothesis and user research to KPI definition and final feature recommendation.
   
