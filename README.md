@@ -39,6 +39,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
   	- Create a simple, functional chatbot that handles user input and provides model-generated replies. Retrieval will come next!. 	
   - <b>Stack:</b> Python, LlamaIndex, LLM,Gemini API  
 
+<br></br>
 
 ### 📊 II. Product Strategy & Architecture
 
