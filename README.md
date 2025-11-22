@@ -25,7 +25,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ### 🚀 I. End-to-End AI Products (LLMs & GenAI)
 
-<b>[AI-Powered Document Automation Platform:](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)</b>	
+<b>[AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)</b>	
   - <b>The Product Problem:</b> Users spend too much time reading mortgage application documents.
   - <b>The "Tech" Solution:</b>
   	- Buiding a multi-stage pipeline using Python and OCR to digitize legacy mortgage blobs. Implemented Vector Search (RAG) to allow loan officers to 'chat' with loan applications and automated the extraction of key financial data into structured JSON for downstream underwriting systems. 	
@@ -33,7 +33,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 		
 <br></br>
 
-<b>[RAG Pipelines:](https://github.com/LashawnFofung/RAG-Pipelines)</b>	
+<b>[RAG Pipelines](https://github.com/LashawnFofung/RAG-Pipelines)</b>	
   - <b>The Product Problem:</b> Simple chatbox to build basic component for RAG pipeline (system).
   - <b>The "Tech" Solution:</b>
   	- Create a simple, functional chatbot that handles user input and provides model-generated replies. Retrieval will come next!. 	
