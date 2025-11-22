@@ -15,7 +15,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ## 🛠️ Tech & Tool Stack
   - <b>Core Development:</b>	Python,Colab, Git
-  - <b>AI & ML:</b>	Gemini API, Hugging Face, P 
+  - <b>AI & ML:</b>	RAG, LlamaIndex, Gemini API, Hugging Face
   - <b>Product & Strategy:</b>	Jira, Figma, A/B Testing, Technical PRD Writing,
   - <b>Data Engineering:</b>	Pandas,PyMuPDF, Tesseract, EasyOCR, NumPy, 
 
@@ -25,18 +25,13 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ### 🚀 I. End-to-End AI Products (LLMs & GenAI)
 
-<b>Project Name:</b>	
-  - The "Product" Problem
-  - Summary of Problem Statement
-  - The "Tech" Solution
-  - Stack
+<b>[AI-Powered Document Automation Platform:](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)</b>	
+  - <b>The Product Problem:</b> Users spend too much time reading mortgage application documents.
+  - <b>The "Tech" Solution:</b>
+  	- Buiding a multi-stage pipeline using Python and OCR to digitize legacy mortgage blobs. Implemented Vector Search (RAG) to allow loan officers to 'chat' with loan applications and automated the extraction of key financial data into structured JSON for downstream underwriting systems. 	
+  - <b>Stack:</b> Python, OCR, RAG, LLM,API  
 		
-
-<b>Project Name:</b>	
-  - The "Product" Problem
-  - Summary of Problem Statement
-  - The "Tech" Solution
-  - Stack
+<br></br>
 
 
 
@@ -44,6 +39,8 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 Artifacts demonstrating system design and product management skills.
 
-[Document Name](View PDF/Markdown)
+[Digital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
+	
+- Translating Gen Z behavioral insights into retention-focused product features. Covers the full lifecycle from hypothesis and user research to KPI definition and final feature recommendation.
   
 
