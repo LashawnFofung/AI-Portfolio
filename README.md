@@ -32,7 +32,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
   - Stack
 		
 
-b>Project Name:</b>	
+<b>Project Name:</b>	
   - The "Product" Problem
   - Summary of Problem Statement
   - The "Tech" Solution
@@ -44,6 +44,6 @@ b>Project Name:</b>
 
 Artifacts demonstrating system design and product management skills.
 
-[Document Name]([View PDF/Markdown])
+[Document Name](View PDF/Markdown)
   
 
