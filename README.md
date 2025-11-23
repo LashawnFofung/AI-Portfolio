@@ -33,7 +33,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 		
 <br></br>
 
-<b>[RAG Pipelines](https://github.com/LashawnFofung/RAG-Pipelines)</b>	
+<b>[RAG Pipelines: Simple Chatbot with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines)</b>	
   - <b>The Product Problem:</b> Simple chatbox to build basic component for RAG pipeline (system).
   - <b>The "Tech" Solution:</b>
   	- Create a simple, functional chatbot that handles user input and provides model-generated replies. Retrieval will come next!. 	
