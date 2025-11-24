@@ -52,7 +52,9 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 	- Reranking: Employs a Cross-Encoder model (e.g., Sentence Transformer) as a final filter to re-score and prioritize the most relevant retrieved chunks, maximizing the quality of context passed to the LLM.
   
   - <b>Stack:</b> Python, LlamaIndex, LLM, Gemini API
+
 <br><br>
+
 
 ### 📊 II. Product Strategy & Architecture
 
