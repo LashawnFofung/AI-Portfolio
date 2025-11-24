@@ -41,6 +41,13 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 <br></br>
 
+<b>[Advanced PDF Retrieval and Optimization with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Advanced_PDF_Retrieval_and_Optimization_with_LlamaIndex.ipynb)</b>
+	- <b>The Problem:</b>
+	- <b>The "Tech" Solution:</b>
+		- Creating an end-to-end 
+	- <b>Stack:</b> Python, LlamaIndex, LLM, Gemini API
+<br><br>
+
 ### 📊 II. Product Strategy & Architecture
 
 Artifacts demonstrating system design and product management skills.
