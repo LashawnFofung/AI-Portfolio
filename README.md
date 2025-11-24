@@ -42,10 +42,16 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 <br></br>
 
 <b>[Advanced PDF Retrieval and Optimization with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Advanced_PDF_Retrieval_and_Optimization_with_LlamaIndex.ipynb)</b>
-	- <b>The Problem:</b>
-	- <b>The "Tech" Solution:</b>
-		- Creating an end-to-end 
-	- <b>Stack:</b> Python, LlamaIndex, LLM, Gemini API
+  - <b>The Problem:</b> Retrieval-Augmented Generation (RAG) accuracy often suffers when querying large, complex PDF documents (like contracts or technical papers) because basic vector search alone struggles with lexical mismatches, terminology variations, and long context.
+  
+  - <b>The "Tech" Solution:</b> This notebook demonstrates an advanced RAG pipeline that significantly boosts retrieval quality (Recall and Precision) by stacking three optimization techniques:
+	- Query Expansion: Uses the LLM to generate multiple relevant query variations, ensuring a wider net is cast.
+
+	- Hybrid Retrieval (Vector + BM25): Combines semantic search (embeddings) with keyword search (BM25) to retrieve both conceptual and exact term matches.
+
+	- Reranking: Employs a Cross-Encoder model (e.g., Sentence Transformer) as a final filter to re-score and prioritize the most relevant retrieved chunks, maximizing the quality of context passed to the LLM.
+  
+  - <b>Stack:</b> Python, LlamaIndex, LLM, Gemini API
 <br><br>
 
 ### 📊 II. Product Strategy & Architecture
