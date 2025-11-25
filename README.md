@@ -73,6 +73,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
  - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
 
+<br><br>
 
 ### 📊 II. Product Strategy & Architecture
 
