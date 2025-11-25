@@ -71,6 +71,8 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 	- <b>Synthesis:</b> The retrieved context is then passed to the Gemini 2.5 Flash LLM, which synthesizes the final, accurate answer, even performing required calculations like summing monthly components.
 
+ - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
+
 
 ### 📊 II. Product Strategy & Architecture
 
