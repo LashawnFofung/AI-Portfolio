@@ -55,6 +55,22 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 <br><br>
 
+<b>[Build And Optimize A RAG Pipeline For Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Build_and_Optimize_a_RAG_Pipeline_for_Document_Retrieval.ipynb)</b>
+    
+- <i>Review Data</i>: [HERE](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/data/LenderFeesWorksheetNew.pdf)
+
+- <b>The Problem:</b> Financial documents, like the Lender's Fees Worksheet used in this demo, are often dense and semi-structured, mixing tables, line items, and prose. Extracting specific, cross-referenced data. For instance, calculating a total monthly payment or locating a single fee. This is a manual, time-consuming, and error-prone process for end-users or automated systems relying solely on keyword searches. The goal is to move from laborious human review to instant, reliable data retrieval.
+	
+- <b>The "Tech" Solution:</b>
+		
+	The solution is an optimized RAG pipeline that achieves high retrieval accuracy for both numerical and textual data.
+
+  	- <b>Parsing:</b> It uses PyMuPDF for superior PDF text extraction, ensuring high-quality input data from the start.
+
+	- <b>Semantic Search:</b> It converts all document content into dense vector embeddings (🔢) using an efficient model. This enables semantic search (Vector Retrieval), allowing the system to understand the meaning of a user's question (e.g., asking for a "security protection fee") and accurately retrieve (🔍) the relevant financial line item ("Lender's Title Insurance") from the document.
+
+	- <b>Synthesis:</b> The retrieved context is then passed to the Gemini 2.5 Flash LLM, which synthesizes the final, accurate answer, even performing required calculations like summing monthly components.
+
 
 ### 📊 II. Product Strategy & Architecture
 
