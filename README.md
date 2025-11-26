@@ -15,7 +15,7 @@
     	- [Optimized RAG Pipeline with Interactive RAG Chatbot For Document Retrieval]()
 
   - [II. Product Strategy & Architecture](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-ii-product-strategy--architecture) 
-
+		- [Digital Product AI Strategy]()
 
 
 ## 📖 About This Portfolio
@@ -39,7 +39,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ### 🚀 I. End-to-End AI Products 
 
-<b>[AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)</b>	
+#### [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)	
   - <b>The Product Problem:</b> Users spend too much time reading mortgage application documents.
   - <b>The "Tech" Solution:</b>
   	- Buiding a multi-stage pipeline using Python and OCR to digitize legacy mortgage blobs. Implemented Vector Search (RAG) to allow loan officers to 'chat' with loan applications and automated the extraction of key financial data into structured JSON for downstream underwriting systems. 	
@@ -47,7 +47,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 		
 <br></br>
 
-<b>[RAG Pipelines: Simple Chatbot with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines)</b>	
+#### [RAG Pipelines: Simple Chatbot with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines)	
   - <b>The Product Problem:</b> Simple chatbox to build basic component for RAG pipeline (system).
   - <b>The "Tech" Solution:</b>
   	- Create a simple, functional chatbot that handles user input and provides model-generated replies. Retrieval will come next!. 	
@@ -55,7 +55,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 <br></br>
 
-<b>[Advanced PDF Retrieval and Optimization with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Advanced_PDF_Retrieval_and_Optimization_with_LlamaIndex.ipynb)</b>
+#### [Advanced PDF Retrieval and Optimization with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Advanced_PDF_Retrieval_and_Optimization_with_LlamaIndex.ipynb)
   - <b>The Problem:</b> Retrieval-Augmented Generation (RAG) accuracy often suffers when querying large, complex PDF documents (like contracts or technical papers) because basic vector search alone struggles with lexical mismatches, terminology variations, and long context.
   
   - <b>The "Tech" Solution:</b> This notebook demonstrates an advanced RAG pipeline that significantly boosts retrieval quality (Recall and Precision) by stacking three optimization techniques:
@@ -69,7 +69,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 <br><br>
 
-<b>[Build And Optimize A RAG Pipeline For Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Build_and_Optimize_a_RAG_Pipeline_for_Document_Retrieval.ipynb)</b>
+#### [Build And Optimize A RAG Pipeline For Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Build_and_Optimize_a_RAG_Pipeline_for_Document_Retrieval.ipynb)
     
 - <i>Review Data</i>: [HERE](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/data/LenderFeesWorksheetNew.pdf)
 
@@ -118,7 +118,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 Artifacts demonstrating system design and product management skills.
 
-<b>[Digital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)</b>
+#### [Digital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
 	
 - Translating Gen Z behavioral insights into retention-focused product features. Covers the full lifecycle from hypothesis and user research to KPI definition and final feature recommendation.
   
