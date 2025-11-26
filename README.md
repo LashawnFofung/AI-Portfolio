@@ -3,6 +3,20 @@
 ### Bridging the gap between Technical Execution and Product Strategy
 
 ##
+## Table of Contents
+- [About This Portfolio](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-about-this-portfolio)
+- [Tech & Tool Stack](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#%EF%B8%8F-tech--tool-stack)
+- [Selected Projects](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-selected-projects)
+	- [I. End-to-End AI Products](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-i-end-to-end-ai-products-llms--genai)
+ 		- [AI-Powered Document Automation Platform]()
+   		- [RAG Pipelines: Simple Chatbot with LlamaIndex]()
+     	- [Advanced PDF Retrieval and Optimization with LlamaIndex]() 
+		- [Build And Optimize A RAG Pipeline For Document Retrieval]()
+    	- [Optimized RAG Pipeline with Interactive RAG Chatbot For Document Retrieval]()
+
+  - [II. Product Strategy & Architecture](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-ii-product-strategy--architecture) 
+
+
 
 ## 📖 About This Portfolio
 Welcome to my digital workspace. This repository documents my journey in building Artificial Intelligence solutions. Unlike traditional engineering portfolios, this collection highlights a dual focus:
@@ -15,7 +29,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ## 🛠️ Tech & Tool Stack
   - <b>Core Development:</b>	Python,Colab, Git
-  - <b>AI & ML:</b>	RAG, LlamaIndex, Gemini API, Hugging Face
+  - <b>AI & ML:</b>	RAG, LlamaIndex, Gemini API, HuggingFace
   - <b>Product & Strategy:</b>	Jira, Figma, A/B Testing, Technical PRD Writing,
   - <b>Data Engineering:</b>	Pandas,PyMuPDF, Tesseract, EasyOCR, NumPy, 
 
@@ -23,7 +37,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ## 📂 Selected Projects
 
-### 🚀 I. End-to-End AI Products (LLMs & GenAI)
+### 🚀 I. End-to-End AI Products 
 
 <b>[AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)</b>	
   - <b>The Product Problem:</b> Users spend too much time reading mortgage application documents.
