@@ -15,6 +15,7 @@
     	- [Optimized RAG Pipeline with Interactive RAG Chatbot For Document Retrieval](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#optimized-rag-pipeline-with-interactive-rag-chatbot-for-document-retrieval)
 
   - [II. Product Strategy & Architecture](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-ii-product-strategy--architecture) 
+		
 		- [Digital Product AI Strategy](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#digital-product-ai-strategy)
 
 
