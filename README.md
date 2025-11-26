@@ -76,8 +76,24 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 <br><br>
 
 <b>[Optimized RAG Pipeline with Interactive RAG Chatbot for Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Optimized_RAG_Pipeline_with_Interactive_RAG_Chatbot_for_Document_Retrieval.ipynb)</b>
-    - <i>Review Data</i>: [HERE](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/data/LenderFeesWorksheetNew.pdf)	
+	
+	- <i>Review Data</i>: [HERE](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/data/LenderFeesWorksheetNew.pdf)	
 
+	- <b>The Problem:</b> Financial documents, like the Lender's Fees Worksheet, are dense, unstructured, and time-consuming to analyze manually. Extracting specific, cross-referenced data—such as calculating a total monthly payment or locating a single fee—is often rigid and prone to human error. The goal is to move beyond single, static queries to an instant, conversational data assistant that can handle multi-turn follow-up questions and provide reliable, grounded facts.
+	
+- <b>The "Tech" Solution:</b>
+		
+	The solution is an optimized RAG pipeline built around a Conversational Chat Engine that achieves high retrieval accuracy and maintains memory across turns:
+
+  	- <b>Parsing:</b> It uses PyMuPDF for superior PDF text extraction, ensuring high-quality input data from the start, preserving complex table structures.
+
+	- <b>Semantic Search & Indexing:</b> The pipeline converts document content into dense vector embeddings (🔢) using the highly efficient MiniLM model. This enables semantic search (Vector Retrieval), allowing the system to understand the meaning of a user's question (e.g., asking for a "security protection fee") and accurately retrieve (🔍) the relevant financial line item.
+
+	- <b>Conversational RAG:</b> The key upgrade is the use of the LlamaIndex ChatEngine, which automatically retrieves context for every turn of the conversation. It combines the conversation history with the newly retrieved document chunks.
+   
+	- <b>Synthesis:</b> The combined context is passed to the Gemini 2.5 Flash LLM, which synthesizes the final, accurate, and memory-aware answer, allowing users to ask complex, multi-turn follow-up questions.
+
+ - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
 <br><br>
 
 ### 📊 II. Product Strategy & Architecture
