@@ -8,14 +8,14 @@
 - [Tech & Tool Stack](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#%EF%B8%8F-tech--tool-stack)
 - [Selected Projects](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-selected-projects)
 	- [I. End-to-End AI Products](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-i-end-to-end-ai-products-llms--genai)
- 		- [AI-Powered Document Automation Platform]()
-   		- [RAG Pipelines: Simple Chatbot with LlamaIndex]()
-     	- [Advanced PDF Retrieval and Optimization with LlamaIndex]() 
-		- [Build And Optimize A RAG Pipeline For Document Retrieval]()
+ 		- [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#ai-powered-document-automation-platform)
+   		- [RAG Pipelines: Simple Chatbot with LlamaIndex](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#rag-pipelines-simple-chatbot-with-llamaindex)
+     	- [Advanced PDF Retrieval and Optimization with LlamaIndex](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#advanced-pdf-retrieval-and-optimization-with-llamaindex) 
+		- [Build And Optimize A RAG Pipeline For Document Retrieval](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#build-and-optimize-a-rag-pipeline-for-document-retrieval)
     	- [Optimized RAG Pipeline with Interactive RAG Chatbot For Document Retrieval]()
 
   - [II. Product Strategy & Architecture](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-ii-product-strategy--architecture) 
-		- [Digital Product AI Strategy]()
+		- [Digital Product AI Strategy](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#digital-product-ai-strategy)
 
 
 ## 📖 About This Portfolio
@@ -89,7 +89,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 <br><br>
 
-<b>[Optimized RAG Pipeline with Interactive RAG Chatbot for Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Optimized_RAG_Pipeline_with_Interactive_RAG_Chatbot_for_Document_Retrieval.ipynb)</b>
+#### [Optimized RAG Pipeline with Interactive RAG Chatbot for Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Optimized_RAG_Pipeline_with_Interactive_RAG_Chatbot_for_Document_Retrieval.ipynb)
 	
 - <i>Review Data</i>: [HERE](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/data/LenderFeesWorksheetNew.pdf)	
 
