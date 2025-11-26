@@ -77,9 +77,9 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 <b>[Optimized RAG Pipeline with Interactive RAG Chatbot for Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Optimized_RAG_Pipeline_with_Interactive_RAG_Chatbot_for_Document_Retrieval.ipynb)</b>
 	
-	- <i>Review Data</i>: [HERE](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/data/LenderFeesWorksheetNew.pdf)	
+- <i>Review Data</i>: [HERE](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/data/LenderFeesWorksheetNew.pdf)	
 
-	- <b>The Problem:</b> Financial documents, like the Lender's Fees Worksheet, are dense, unstructured, and time-consuming to analyze manually. Extracting specific, cross-referenced data—such as calculating a total monthly payment or locating a single fee—is often rigid and prone to human error. The goal is to move beyond single, static queries to an instant, conversational data assistant that can handle multi-turn follow-up questions and provide reliable, grounded facts.
+- <b>The Problem:</b> Financial documents, like the Lender's Fees Worksheet, are dense, unstructured, and time-consuming to analyze manually. Extracting specific, cross-referenced data—such as calculating a total monthly payment or locating a single fee—is often rigid and prone to human error. The goal is to move beyond single, static queries to an instant, conversational data assistant that can handle multi-turn follow-up questions and provide reliable, grounded facts.
 	
 - <b>The "Tech" Solution:</b>
 		
@@ -95,6 +95,10 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
  - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
 <br><br>
+
+<br><br>
+
+
 
 ### 📊 II. Product Strategy & Architecture
 
