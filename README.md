@@ -16,7 +16,7 @@
 
   - [II. Product Strategy & Architecture](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-ii-product-strategy--architecture) 
 		
-		- [Digital Product AI Strategy](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#digital-product-ai-strategy)
+	- [Digital Product AI Strategy](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#digital-product-ai-strategy)
 
 
 ## 📖 About This Portfolio
