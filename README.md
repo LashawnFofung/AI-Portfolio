@@ -122,5 +122,8 @@ Artifacts demonstrating system design and product management skills.
 #### [Digital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
 	
 - Translating Gen Z behavioral insights into retention-focused product features. Covers the full lifecycle from hypothesis and user research to KPI definition and final feature recommendation.
+<br><br>
+### [Technical Evaluation Report: Embedding Model Scorecard Analysis](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Embedding%20Model%20Scorecard%20Analysis.pdf)
+
   
 
