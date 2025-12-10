@@ -123,7 +123,9 @@ Artifacts demonstrating system design and product management skills.
 	
 - Translating Gen Z behavioral insights into retention-focused product features. Covers the full lifecycle from hypothesis and user research to KPI definition and final feature recommendation.
 <br><br>
-### [Technical Evaluation Report: Embedding Model Scorecard Analysis](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Embedding%20Model%20Scorecard%20Analysis.pdf)
 
+#### [Technical Evaluation Report: Embedding Model Scorecard Analysis](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Embedding%20Model%20Scorecard%20Analysis.pdf)
+
+- To systematically evaluate and compare the indexing speed, retrieval speed, and retrieval quality (conciseness) of three leading open-source embedding models: MiniLM-L6-v2, BGE-small-en, and E5-small-v2, within a simple RAG pipeline.
   
 
