@@ -129,3 +129,7 @@ Artifacts demonstrating system design and product management skills.
 - To systematically evaluate and compare the indexing speed, retrieval speed, and retrieval quality (conciseness) of three leading open-source embedding models: MiniLM-L6-v2, BGE-small-en, and E5-small-v2, within a simple RAG pipeline.
   
 
+
+##### Comparative Analysis of Large Language Models for Retrieval-Augumented Generation (RAG)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Comparative%20Analysis%20of%20Large%20Language%20Models%20%20for%20Retrieval-Augmented%20Generation%20(RAG).pdf)
+
+- To showcase the rigorous testing phase of the AI-Powered Document Automation Platform, demonstrating evidence-based model selection for LLMs and embedding models to achieve sub-second retrieval with factual accuracy.
