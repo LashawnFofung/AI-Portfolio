@@ -30,9 +30,9 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ## 🛠️ Tech & Tool Stack
   - <b>Core Development:</b>	Python,Colab, Git
-  - <b>AI & ML:</b>	RAG, LlamaIndex, Gemini API, HuggingFace
+  - <b>AI & ML:</b>	RAG, LlamaIndex, Gemini API, HuggingFace, Mistral, Phi-2, TinyLlama, PyTorch
   - <b>Product & Strategy:</b>	Jira, Figma, A/B Testing, Technical PRD Writing,
-  - <b>Data Engineering:</b>	Pandas,PyMuPDF, Tesseract, EasyOCR, NumPy, 
+  - <b>Data Engineering:</b>	Pandas,PyMuPDF, Matplotlib, Tesseract, EasyOCR, NumPy, 
 
 ##
 
