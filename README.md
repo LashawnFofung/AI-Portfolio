@@ -126,6 +126,18 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 		
 		- <b>Manual Effort:</b> Users traditionally have to manually split and categorize files before they can be processed by AI.
 
+- <b> The "Tech" Solution: Semantic Boundary Intelligence</b>
+
+	This project solves the "Blob" problem by shifting from simple text extraction to a Metadata-Aware RAG Pipeline.
+	
+	- <b>How it works:</b>
+	
+		- <b>Intelligent Splitting:</b> The system uses LLM-based reasoning (Gemini 2.0) to analyze page transitions and detect document boundaries in real-time.
+		
+		- <b>Semantic Indexing:</b> Instead of a flat search, pages are embedded into a vector space using BAAI/bge-small-en-v1.5, allowing the system to understand the meaning of your questions.
+		
+		- <b>Intent Routing:</b> The AI first predicts which document type contains the answer, then applies a Metadata Filter to search only that specific section. This ensures high precision and eliminates "noise" from irrelevant pages.
+
 <br><br>
 
 
