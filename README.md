@@ -13,8 +13,6 @@
      	- [Advanced PDF Retrieval and Optimization with LlamaIndex](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#advanced-pdf-retrieval-and-optimization-with-llamaindex) 
 		- [Build And Optimize A RAG Pipeline For Document Retrieval](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#build-and-optimize-a-rag-pipeline-for-document-retrieval)
     	- [Optimized RAG Pipeline with Interactive RAG Chatbot For Document Retrieval](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#optimized-rag-pipeline-with-interactive-rag-chatbot-for-document-retrieval)
-     	- [Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
-   			- <i>view</i> [Presentation PDF: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Presentation/Full%20RAG%20Pipeline%20with%20Interactive%20Gradio%20Chatbot%20-%20Demo%20and%20Reflection.pdf)
 
   - [II. Product Strategy & Architecture](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-ii-product-strategy--architecture) 
 		
@@ -34,7 +32,8 @@ Welcome to my digital workspace. This repository documents my journey in buildin
   - <b>Core Development:</b>	Python,Colab, Git
   - <b>AI & ML:</b>	RAG, LlamaIndex, Gemini API, HuggingFace, Mistral, Phi-2, TinyLlama, PyTorch
   - <b>Product & Strategy:</b>	Jira, Figma, A/B Testing, Technical PRD Writing,
-  - <b>Data Engineering:</b>	Pandas,PyMuPDF, Matplotlib, Tesseract, EasyOCR, NumPy, 
+  - <b>Data Engineering:</b>	Pandas,PyMuPDF, Matplotlib, Tesseract, EasyOCR, NumPy
+  - <b>UI:</b> Gradio
 
 ##
 
@@ -112,6 +111,20 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
  - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
 <br><br>
+
+#### [Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
+
+- <i>view</i> [Presentation PDF: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Presentation/Full%20RAG%20Pipeline%20with%20Interactive%20Gradio%20Chatbot%20-%20Demo%20and%20Reflection.pdf)
+
+- <b>The Problem:</b> Most automated systems struggle with merged documents. When multiple distinct files (e.g., a Resume, a PaySlip, and a Contract) are scanned into a single PDF "blob," standard AI tools treat them as one continuous stream of text.
+
+	- <b>Key Challenges:</b>
+	
+		- <b>Context Bleeding:</b> Answers about a PaySlip might mistakenly pull data from a Resume.
+		
+		- <b>Inaccurate Retrieval:</b> Standard keyword search fails to find information if the terminology differs (e.g., "Salary" vs. "Gross Pay").
+		
+		- <b>Manual Effort:</b> Users traditionally have to manually split and categorize files before they can be processed by AI.
 
 <br><br>
 
