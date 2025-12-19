@@ -13,6 +13,8 @@
      	- [Advanced PDF Retrieval and Optimization with LlamaIndex](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#advanced-pdf-retrieval-and-optimization-with-llamaindex) 
 		- [Build And Optimize A RAG Pipeline For Document Retrieval](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#build-and-optimize-a-rag-pipeline-for-document-retrieval)
     	- [Optimized RAG Pipeline with Interactive RAG Chatbot For Document Retrieval](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#optimized-rag-pipeline-with-interactive-rag-chatbot-for-document-retrieval)
+     	- [Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
+   			- <i>view</i> [Presentation PDF: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Presentation/Full%20RAG%20Pipeline%20with%20Interactive%20Gradio%20Chatbot%20-%20Demo%20and%20Reflection.pdf)
 
   - [II. Product Strategy & Architecture](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-ii-product-strategy--architecture) 
 		
