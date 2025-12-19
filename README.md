@@ -110,6 +110,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 	- <b>Synthesis:</b> The combined context is passed to the Gemini 2.5 Flash LLM, which synthesizes the final, accurate, and memory-aware answer, allowing users to ask complex, multi-turn follow-up questions.
 
  - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
+
 <br><br>
 
 #### [Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
@@ -137,6 +138,24 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 		- <b>Semantic Indexing:</b> Instead of a flat search, pages are embedded into a vector space using BAAI/bge-small-en-v1.5, allowing the system to understand the meaning of your questions.
 		
 		- <b>Intent Routing:</b> The AI first predicts which document type contains the answer, then applies a Metadata Filter to search only that specific section. This ensures high precision and eliminates "noise" from irrelevant pages.
+
+- <b> Tech Stack</b>
+
+	- <b>Core AI & Frameworks</b>
+	
+		- <b>LlamaIndex:</b> The primary orchestration framework used for data ingestion, indexing, and retrieval logic.
+		
+		- <b>Google Gemini 2.0 Flash:</b> The "reasoning engine" responsible for document classification, boundary detection, and final response generation.
+		
+		- <b>Sentence-Transformers:</b> Powers the semantic search capabilities via the BGE-Small embedding model.
+		
+	- <b>Processing & UI</b>
+	
+		- <b>Gradio:</b> A Python-based UI framework used to build the interactive web dashboard, featuring custom CSS for a professional, bordered layout.
+		
+		- <b>PyMuPDF:</b> Utilized for high-performance PDF text extraction and parsing.
+		
+		- <b>Nest-Asyncio:</b> Manages asynchronous event loops to ensure the Gradio UI and LLM calls run smoothly in interactive environments.
 
 <br><br>
 
