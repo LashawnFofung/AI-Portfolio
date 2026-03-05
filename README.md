@@ -40,7 +40,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ##
 
-## 📂 Selected Projects
+## 📂 Projects
 
 ### 🚀 I. End-to-End AI Products 
 
@@ -73,13 +73,16 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
   - <b>Stack:</b> Google Gemini, n8n, Google Sheets, Perplexity, ChatGPT
 
+<h1></h1>
+
 #### [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)	
   - <b>The Product Problem:</b> Users spend too much time reading mortgage application documents.
   - <b>The "Tech" Solution:</b>
   	- Buiding a multi-stage pipeline using Python and OCR to digitize legacy mortgage blobs. Implemented Vector Search (RAG) to allow loan officers to 'chat' with loan applications and automated the extraction of key financial data into structured JSON for downstream underwriting systems. 	
   - <b>Stack:</b> Python, OCR, RAG, LLM,API  
 		
-<br></br>
+<h1></h1>
+
 
 #### [RAG Pipelines: Simple Chatbot with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Build_a_Simple_Chatbot_with_LlamaIndex.ipynb)	
   - <b>The Product Problem:</b> Simple chatbox to build basic component for RAG pipeline (system).
@@ -87,7 +90,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
   	- Create a simple, functional chatbot that handles user input and provides model-generated replies. Retrieval will come next!. 	
   - <b>Stack:</b> Python, LlamaIndex, RAG, LLM,Gemini API  
 
-<br></br>
+<h1></h1>
 
 #### [Advanced PDF Retrieval and Optimization with LlamaIndex](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Advanced_PDF_Retrieval_and_Optimization_with_LlamaIndex.ipynb)
   - <b>The Problem:</b> Retrieval-Augmented Generation (RAG) accuracy often suffers when querying large, complex PDF documents (like contracts or technical papers) because basic vector search alone struggles with lexical mismatches, terminology variations, and long context.
@@ -101,7 +104,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
   
   - <b>Stack:</b> Python, LlamaIndex,RAG, LLM, Gemini API
 
-<br><br>
+<h1></h1>
 
 #### [Build And Optimize A RAG Pipeline For Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Task_Build_and_Optimize_a_RAG_Pipeline_for_Document_Retrieval.ipynb)
     
@@ -121,7 +124,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
  - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
 
-<br><br>
+<h1></h1>
 
 #### [Optimized RAG Pipeline with Interactive RAG Chatbot for Document Retrieval](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/src/Optimized_RAG_Pipeline_with_An_Interactive_RAG_Chatbot_for_Document_Retrieval.ipynb)
 	
@@ -143,7 +146,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
  - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
 
-<br><br>
+<h1></h1>
 
 #### [Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
 
@@ -189,7 +192,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 		
 		- <b>Nest-Asyncio:</b> Manages asynchronous event loops to ensure the Gradio UI and LLM calls run smoothly in interactive environments.
 
-<br><br>
+<h1></h1>
 
 
 
@@ -200,14 +203,18 @@ Artifacts demonstrating system design and product management skills.
 #### [Digital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
 	
 - Translating Gen Z behavioral insights into retention-focused product features. Covers the full lifecycle from hypothesis and user research to KPI definition and final feature recommendation.
-<br><br>
+
+<h1></h1>
 
 #### [Technical Evaluation Report: Embedding Model Scorecard Analysis](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Embedding%20Model%20Scorecard%20Analysis.pdf)
 
 - To systematically evaluate and compare the indexing speed, retrieval speed, and retrieval quality (conciseness) of three leading open-source embedding models: MiniLM-L6-v2, BGE-small-en, and E5-small-v2, within a simple RAG pipeline.
-<br><br>  
+
+<h1></h1>
 
 
 #### [Comparative Analysis of Large Language Models for Retrieval-Augmented Generation (RAG)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Comparative%20Analysis%20of%20Large%20Language%20Models%20%20for%20Retrieval-Augmented%20Generation%20(RAG).pdf)
 
 - To showcase the rigorous testing phase of the AI-Powered Document Automation Platform, demonstrating evidence-based model selection for LLMs and embedding models to achieve sub-second retrieval with factual accuracy.
+
+<h1></h1>
