@@ -9,7 +9,7 @@
 - [Selected Projects](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-selected-projects)
 	- [I. End-to-End AI Products](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#-i-end-to-end-ai-products-llms--genai)
 
-		- [Wayfair Agentic Business Intelligence (BI)](https://github.com/LashawnFofung/Wayfair-Agentic-BI)
+		- [Wayfair Agentic Business Intelligence (BI)](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#wayfair-agentic-business-intelligence-bi)
 		
 		- [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#ai-powered-document-automation-platform)
    		- [RAG Pipelines: Simple Chatbot with LlamaIndex](https://github.com/LashawnFofung/AI-Portfolio/blob/main/README.md#rag-pipelines-simple-chatbot-with-llamaindex)
