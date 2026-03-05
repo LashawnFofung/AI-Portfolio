@@ -79,7 +79,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
   - <b>The Product Problem:</b> Users spend too much time reading mortgage application documents.
   - <b>The "Tech" Solution:</b>
   	- Buiding a multi-stage pipeline using Python and OCR to digitize legacy mortgage blobs. Implemented Vector Search (RAG) to allow loan officers to 'chat' with loan applications and automated the extraction of key financial data into structured JSON for downstream underwriting systems. 	
-  - <b>Stack:</b> Python, OCR, RAG, LLM,API  
+  - <b>Tech Stack:</b> Python, OCR, RAG, LLM,API  
 		
 <h1></h1>
 
@@ -88,7 +88,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
   - <b>The Product Problem:</b> Simple chatbox to build basic component for RAG pipeline (system).
   - <b>The "Tech" Solution:</b>
   	- Create a simple, functional chatbot that handles user input and provides model-generated replies. Retrieval will come next!. 	
-  - <b>Stack:</b> Python, LlamaIndex, RAG, LLM,Gemini API  
+  - <b>Tech Stack:</b> Python, LlamaIndex, RAG, LLM,Gemini API  
 
 <h1></h1>
 
@@ -102,7 +102,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 	- Reranking: Employs a Cross-Encoder model (e.g., Sentence Transformer) as a final filter to re-score and prioritize the most relevant retrieved chunks, maximizing the quality of context passed to the LLM.
   
-  - <b>Stack:</b> Python, LlamaIndex,RAG, LLM, Gemini API
+  - <b>Tech Stack:</b> Python, LlamaIndex,RAG, LLM, Gemini API
 
 <h1></h1>
 
@@ -122,7 +122,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 	- <b>Synthesis:</b> The retrieved context is then passed to the Gemini 2.5 Flash LLM, which synthesizes the final, accurate answer, even performing required calculations like summing monthly components.
 
- - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
+ - <b>Tech Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
 
 <h1></h1>
 
@@ -144,7 +144,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
    
 	- <b>Synthesis:</b> The combined context is passed to the Gemini 2.5 Flash LLM, which synthesizes the final, accurate, and memory-aware answer, allowing users to ask complex, multi-turn follow-up questions.
 
- - <b>Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
+ - <b>Tech Stack:</b> Python, RAG, LlamaIndex, LLM, Gemini 2.5 Flash, HuggingFace MiniLM-L6-v2, PyMuPDF (fitz)
 
 <h1></h1>
 
