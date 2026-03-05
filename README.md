@@ -44,6 +44,25 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
 ### 🚀 I. End-to-End AI Products 
 
+
+#### [Wayfair Agentic Business Intelligence (BI)](https://github.com/LashawnFofung/Wayfair-Agentic-BI)
+  - <b>The Product Problem:</b>
+
+	Modern e-commerce leaders like Wayfair manage over 30 million products, making it impossible for human teams to manually track every trend or competitor move. Decision-makers face three primary hurdles:
+	
+	- <b>Information Overload:</b> Transforming massive amounts of raw data from blogs, social media, and product listings into actionable design trends.
+	
+	
+	- <b>Market Blindspots:</b>  Identifying "whitespace" opportunities where competitors are not currently meeting consumer demand.
+	
+	
+	- <b>Speed to Market:</b>  Reducing the time it takes to go from a design "mood" to a live marketing campaign or supply chain adjustment.
+
+
+  - <b>The "Tech" Solution:</b>
+
+  - <b>Stack:</b>
+
 #### [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)	
   - <b>The Product Problem:</b> Users spend too much time reading mortgage application documents.
   - <b>The "Tech" Solution:</b>
