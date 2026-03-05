@@ -61,6 +61,16 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 
   - <b>The "Tech" Solution:</b>
 
+	  The solution is an Agentic Business Intelligence Pipeline—a system of autonomous AI agents that "think, plan, and act" to automate market research.
+
+	- <b>Automated Discovery:</b> Using agents to scrape competitor websites and social media to identify emerging themes, such as specific rug designs.
+		
+	- <b>Generative Intelligence:</b> Deploying LLMs to translate trend signals into visual moodboards and draft high-conversion marketing copy.
+		
+		
+	- <b>Live Synthesis:</b> Integrating disparate data streams into a self-updating Market Intelligence Dashboard in Google Sheets for real-time vendor management.
+
+
   - <b>Stack:</b>
 
 #### [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)	
