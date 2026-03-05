@@ -71,7 +71,7 @@ Welcome to my digital workspace. This repository documents my journey in buildin
 	- <b>Live Synthesis:</b> Integrating disparate data streams into a self-updating Market Intelligence Dashboard in Google Sheets for real-time vendor management.
 
 
-  - <b>Stack:</b> Google Gemini, n8n, Google Sheets, Perplexity, ChatGpt
+  - <b>Stack:</b> Google Gemini, n8n, Google Sheets, Perplexity, ChatGPT
 
 #### [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)	
   - <b>The Product Problem:</b> Users spend too much time reading mortgage application documents.
