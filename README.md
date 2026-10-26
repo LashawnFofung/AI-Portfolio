@@ -48,7 +48,7 @@ Most AI portfolios show either code or slide decks. This one shows both, because
 ## 🚀 AI Products
 
 ### Wayfair Agentic Business Intelligence
-*Mar 2026 – May 2026 · AI Product Management*
+*Mar 2026 – May 2026 · 8-week technical externship · AI Product Management*
 
 **Problem:** With over 30 million products, Wayfair's teams can't manually track every trend or competitor move. Decision-makers face three hurdles:
 - **Information overload:** raw data from blogs, social media, and listings never becomes usable trend insight.
@@ -60,7 +60,7 @@ Most AI portfolios show either code or slide decks. This one shows both, because
 - **Generative intelligence:** LLMs turn trend signals into visual moodboards and draft marketing copy.
 - **Live synthesis:** data streams feed a self-updating Market Intelligence Dashboard for vendor management.
 
-**PM artifacts:** Three agent PRDs, a UI prototype, and a recorded case study.
+**PM artifacts:** Four agent PRDs, a UI prototype, and a recorded case study. **The build:** five n8n agents in the [Agentic Workflow Hub](https://github.com/LashawnFofung/Agentic-Workflow-Hub).
 **Stack:** Google Gemini · n8n · Google Sheets · Perplexity · ChatGPT · Base44 (prototype)
 
 🔗 [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) · [Prototype Demo](https://youtu.be/7shTzdWxmfE) · [PRD Case Study Video](https://youtu.be/faxDVoOzObo) · [Case Study PDF](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/PRD%20CASE%20STUDY/Wayfair%20Agentic%20AI%20BI%20PRD%20Case%20Study.pdf)
