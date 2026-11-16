@@ -81,7 +81,7 @@ Most AI portfolios show either code or slide decks. This one shows both, because
 **Outcome:** Career Pivot Ep. 3 shipped to YouTube, Substack, Spotify and Apple Podcasts, every platform linked to the others.
 **Stack:** Claude Code · Claude skills · CLAUDE.md · Python · ffmpeg · NumPy · pocketsphinx
 
-🔗 [Repo](https://github.com/LashawnFofung/ai-content-ops-agent) · [Career Pivot Playlist](https://www.youtube.com/playlist?list=PLba1tur-5-iU) · [Ep. 3 Podcast](https://lashawnfofung.substack.com/p/career-pivot-ep-3-from-nurse-to-scrum)
+🔗 [Repo](https://github.com/LashawnFofung/ai-content-ops-agent) · [Write-up](https://lashawnfofung.substack.com/p/i-built-an-ai-agent-to-run-my-content) · [Career Pivot Playlist](https://www.youtube.com/playlist?list=PLba1tur-5-iU) · [Ep. 3 Podcast](https://lashawnfofung.substack.com/p/career-pivot-ep-3-from-nurse-to-scrum)
 
 ---
 
