@@ -37,6 +37,7 @@ Most AI portfolios show either code or slide decks. This one shows both, because
 | Project | What It Shows | Stack | Links |
 |---|---|---|---|
 | **Wayfair Agentic BI** | Multi-agent system design, PRDs, prototyping | n8n · Gemini · Google Sheets | [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) |
+| **AI Content Ops Agent** | Human-in-the-loop agent design: 8 stages, 5 approval gates | Claude Code · Python · ffmpeg | [Repo](https://github.com/LashawnFofung/ai-content-ops-agent) |
 | **AI Document Automation Platform** 🏆 | Production-ready IDP: OCR + RAG + structured extraction | Python · LlamaIndex · FAISS · PaddleOCR · Gradio | [Repo](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform) |
 | **Embedding Model Scorecard** | Benchmarking speed vs. quality | MiniLM · BGE · E5 | [Report](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Embedding%20Model%20Scorecard%20Analysis.pdf) |
 | **LLM Comparison for RAG** | Evidence-based model selection | LLM benchmarking | [Report](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Comparative%20Analysis%20of%20Large%20Language%20Models%20%20for%20Retrieval-Augmented%20Generation%20%28RAG%29.pdf) |
@@ -64,6 +65,23 @@ Most AI portfolios show either code or slide decks. This one shows both, because
 **Stack:** Google Gemini · n8n · Google Sheets · Perplexity · ChatGPT · Base44 (prototype)
 
 🔗 [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) · [Prototype Demo](https://youtu.be/7shTzdWxmfE) · [PRD Case Study Video](https://youtu.be/faxDVoOzObo) · [Case Study PDF](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/PRD%20CASE%20STUDY/Wayfair%20Agentic%20AI%20BI%20PRD%20Case%20Study.pdf)
+
+---
+
+### AI Content Ops Agent
+*Nov 2026 · Personal build · AI Product Management*
+
+**Problem:** Turning one idea into a long video, Shorts, a podcast and posts on 6 platforms by hand is slow, and titles, branding and links drift across platforms.
+
+**Solution:** An agent built in Claude Code that runs 8 stages from interview to cross-linked release, with 5 human approval gates:
+- **Facts from me only:** scripts come from my interview answers; gaps become open questions.
+- **My voice, cleaned by code:** a Python + ffmpeg pipeline masters and times my recordings.
+- **A human approves every publish:** the agent drafts; nothing goes live without my yes.
+
+**Outcome:** Career Pivot Ep. 3 shipped to YouTube, Substack, Spotify and Apple Podcasts, every platform linked to the others.
+**Stack:** Claude Code · Claude skills · CLAUDE.md · Python · ffmpeg · NumPy · pocketsphinx
+
+🔗 [Repo](https://github.com/LashawnFofung/ai-content-ops-agent) · [Career Pivot Playlist](https://www.youtube.com/playlist?list=PLba1tur-5-iU) · [Ep. 3 Podcast](https://lashawnfofung.substack.com/p/career-pivot-ep-3-from-nurse-to-scrum)
 
 ---
 
@@ -145,7 +163,7 @@ A hands-on progression from a basic chatbot to a production-style, metadata-awar
 ## Toolkit
 
 **Product:** Technical PRDs · Jira · Figma · A/B testing · Prototyping (Base44) · User research
-**AI & ML:** RAG · LlamaIndex · FAISS · Gemini API · Hugging Face · Mistral · Phi-2 · TinyLlama · PyTorch · Agentic workflows (n8n)
+**AI & ML:** RAG · LlamaIndex · FAISS · Gemini API · Hugging Face · Mistral · Phi-2 · TinyLlama · PyTorch · Agentic workflows (n8n) · Claude Code agents & skills
 **Retrieval techniques:** Hybrid search (vector + BM25) · Query expansion · Cross-encoder reranking · Metadata filtering · Conversational memory
 **Data & documents:** Python · Pandas · NumPy · Matplotlib · PyMuPDF · Tesseract · EasyOCR · PaddleOCR
 **Interfaces & environment:** Gradio · Google Colab · Git
